@@ -3,7 +3,7 @@
 
 Je m'appelle Cyprien et je suis developpeur web :wink:
 
-Je suis  un professionnel rigoureux, un papa, un amateur de texte de loi, d’économie, de fintech, de lecture et surtout de culture.
+Je suis  un professionnel rigoureux :computer: , un papa, un amateur de texte de loi, d’économie, de fintech, de lecture et surtout de culture :mortar_board:
 
 Je ne m’arrête pas avant d’être satisfait de mes compétences dans le domaine que je vise.
 
@@ -15,7 +15,7 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 
  #### Esprit d'analyse / Organiser / Travailler en équipe /Communiquer / Entreprendre
 
-## :computer: Mes compétences techniques
+##  Mes compétences techniques
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94997340/163558286-27617ea3-93f4-4665-972c-1db03a9d91a9.gif" width="450" />
 
 
@@ -24,15 +24,15 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 
 
 
-## :mortar_board: En cours d'aquisition 
+##  En cours d'aquisition 
 <img  alt="javascript" src="https://user-images.githubusercontent.com/94997340/163558960-9a601152-4391-436f-9e03-c3b4f2a194e8.svg" width="50" />     <img alt="react" src="https://user-images.githubusercontent.com/94997340/163558983-049646d4-04fc-4d42-bdfd-9c27aa13a540.svg" width="50" />     <img alt="php" src="https://user-images.githubusercontent.com/94997340/163558952-f29088a9-6f18-4612-9b73-2a9a75a075dd.svg" width="50" />
 
 
-##  :heart: Ce que je vais bientôt étudier
+##  Ce que je vais bientôt étudier
 
 
 
-### Three.js
+### Three.js  :heart:
 
  <br/>
   
