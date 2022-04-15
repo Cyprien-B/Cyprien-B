@@ -8,6 +8,7 @@ Je suis  un professionnel rigoureux, un papa, un amateur de texte de loi, d’é
 Je ne m’arrête pas avant d’être satisfait de mes compétences dans le domaine que je vise.
 
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94997340/163558286-27617ea3-93f4-4665-972c-1db03a9d91a9.gif" width="450" height="320" />
 
 
 ## Mes Skill's :fire:
@@ -19,15 +20,21 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 
 ### Mes compétences techniques :computer:
 
-<img src=https://user-images.githubusercontent.com/94997340/163552966-e0dac2d7-9ce2-442c-8539-ff2efc013350.svg width="30"><img src=https://user-images.githubusercontent.com/94997340/163552967-9728b1ef-fd28-4089-b0ee-3ffaca2e3fb8.svg width="30"><img src=https://user-images.githubusercontent.com/94997340/163552969-0f0b239a-2186-4353-85bf-bf101b9905be.svg width="30"><img src=https://user-images.githubusercontent.com/94997340/163552971-041015da-dea5-4ef4-8deb-3f4efa603ba6.svg width="30"><img src=https://user-images.githubusercontent.com/94997340/163552972-6193e156-af8f-46c3-a919-25de1830b8ee.svg width="30">
+HTML/CSS
 
 ## En cours d'aquisition :mortar_board:
+JAVASCRIPT
+REACT
+PHP
 
 ### Ce que je vais bientôt étudier :heart:
+Three.js
 
 
 ```javascript
-var goToMyWebSite = https://macandidaturechezoclock.fr
+
+var goToMyWebSite = macandidaturechezoclock.fr
+
 if(userWantMore)? goToMyWebSite : goodbye ;
 ```
 [goToMyWebSite](https://macandidaturechezoclock.fr)
