@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+![Js tips](https://user-images.githubusercontent.com/94997340/163550114-1a6a716e-33db-4e32-8072-25bf1d100472.gif)
+
 **Cyprien-B/Cyprien-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
