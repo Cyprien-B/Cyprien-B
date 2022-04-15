@@ -13,11 +13,7 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 
 ## Mes Skill's :fire:
 
- #### Esprit d'analyse
- #### Organiser
- #### Travailler en équipe
- #### Communiquer
- #### Entreprendre
+ #### Esprit d'analyse / Organiser / Travailler en équipe /Communiquer / Entreprendre
 
 ## Mes compétences techniques :computer:
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94997340/163558286-27617ea3-93f4-4665-972c-1db03a9d91a9.gif" width="450" />
