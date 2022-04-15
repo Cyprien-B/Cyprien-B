@@ -2,5 +2,5 @@
 
 
 
-![Js]<img src="https://user-images.githubusercontent.com/94997340/163550114-1a6a716e-33db-4e32-8072-25bf1d100472.gif" width="400">
+<img src="https://user-images.githubusercontent.com/94997340/163550114-1a6a716e-33db-4e32-8072-25bf1d100472.gif" width="400" text-align"left">
 ### Bonjour 👋
