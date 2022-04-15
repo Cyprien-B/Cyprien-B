@@ -1,4 +1,4 @@
-#### Bonjour <img src="https://user-images.githubusercontent.com/94997340/163552023-879f6f4d-2445-452c-8172-eeaa3addc405.gif" width="50">
+#Bonjour <img src="https://user-images.githubusercontent.com/94997340/163552023-879f6f4d-2445-452c-8172-eeaa3addc405.gif" width="50">
 
 
 Je m'appelle Cyprien et je suis developpeur web :wink:
@@ -7,23 +7,29 @@ Je suis  un professionnel rigoureux, un papa, un amateur de texte de loi, d’é
 
 Je ne m’arrête pas avant d’être satisfait de mes compétences dans le domaine que je vise.
 
-<img src="https://user-images.githubusercontent.com/94997340/163550114-1a6a716e-33db-4e32-8072-25bf1d100472.gif" width="700">
+<img src="https://user-images.githubusercontent.com/94997340/163550114-1a6a716e-33db-4e32-8072-25bf1d100472.gif" width="400">
+
 
 ##Mes Skill's :fire:
-#Esprit d'analyse
-#Organiser
-#Travailler en équipe
-#Communiquer
-#Entreprendre
+###Esprit d'analyse
+###Organiser
+###Travailler en équipe
+###Communiquer
+###Entreprendre
 
-##Mes compétences techniques :computer:
+###Mes compétences techniques :computer:
 
-![visualstudiocode](https://user-images.githubusercontent.com/94997340/163552966-e0dac2d7-9ce2-442c-8539-ff2efc013350.svg)
-![php](https://user-images.githubusercontent.com/94997340/163552967-9728b1ef-fd28-4089-b0ee-3ffaca2e3fb8.svg)
-![javascript](https://user-images.githubusercontent.com/94997340/163552969-0f0b239a-2186-4353-85bf-bf101b9905be.svg)
-![css3](https://user-images.githubusercontent.com/94997340/163552971-041015da-dea5-4ef4-8deb-3f4efa603ba6.svg)
-![html5](https://user-images.githubusercontent.com/94997340/163552972-6193e156-af8f-46c3-a919-25de1830b8ee.svg)
+![alt text](https://user-images.githubusercontent.com/94997340/163552966-e0dac2d7-9ce2-442c-8539-ff2efc013350.svg)
+![alt text](https://user-images.githubusercontent.com/94997340/163552967-9728b1ef-fd28-4089-b0ee-3ffaca2e3fb8.svg)
+![alt text](https://user-images.githubusercontent.com/94997340/163552969-0f0b239a-2186-4353-85bf-bf101b9905be.svg)
+![alt text](https://user-images.githubusercontent.com/94997340/163552971-041015da-dea5-4ef4-8deb-3f4efa603ba6.svg)
+![alt text](https://user-images.githubusercontent.com/94997340/163552972-6193e156-af8f-46c3-a919-25de1830b8ee.svg)
 
 ##En cours d'aquisition 
 
-##Ce que je vais bientôt étudier :heart: :mortar_board:
+###Ce que je vais bientôt étudier :heart: :mortar_board:
+
+[goToMyWebSite link](https://macandidaturechezoclock.fr)
+```
+if(userWantMore)? goToMyWebSite : goodbye ;
+```
