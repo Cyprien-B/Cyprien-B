@@ -28,7 +28,7 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 <img  alt="javascript" src="https://user-images.githubusercontent.com/94997340/163558960-9a601152-4391-436f-9e03-c3b4f2a194e8.svg" width="50" />     <img alt="react" src="https://user-images.githubusercontent.com/94997340/163558983-049646d4-04fc-4d42-bdfd-9c27aa13a540.svg" width="50" />     <img alt="php" src="https://user-images.githubusercontent.com/94997340/163558952-f29088a9-6f18-4612-9b73-2a9a75a075dd.svg" width="50" />
 
 
-## Ce que je vais bientôt étudier :heart:
+##  :heart: Ce que je vais bientôt étudier
 
 
 
