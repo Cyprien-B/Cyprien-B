@@ -40,8 +40,6 @@ Je ne m’arrête pas avant d’être satisfait de mes compétences dans le doma
 
 ```javascript
 
-var goToMyWebSite = macandidaturechezoclock.fr
-
 if(userWantMore)? goToMyWebSite : goodbye ;
 ```
 [goToMyWebSite](https://macandidaturechezoclock.fr)
