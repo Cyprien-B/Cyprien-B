@@ -3,7 +3,7 @@
 
 Je m'appelle Cyprien et je suis développeur web :wink:
 
-Je suis  un professionnel rigoureux :computer: , un papa, un amateur de texte de loi, d’économie, de fintech, de lecture et surtout de culture :mortar_board:
+Je suis  un professionnel rigoureux :computer: , un amateur de texte de loi, d’économie, de fintech, de lecture et surtout de culture :mortar_board:
 
 Je ne m’arrête pas avant d’être satisfait de mes compétences dans le domaine que je vise.
 
